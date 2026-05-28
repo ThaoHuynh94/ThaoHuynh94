@@ -2,6 +2,10 @@
 
 ### Software Engineering Student @ San José State University
 
+### Incoming Software Engineering Intern @ SLAC National Accelerator Laboratory
+
+### Former Computing Intern @ Lawrence Livermore National Laboratory
+
 Building intelligent systems through **Deep Learning, Computer Vision, Scientific Computing, and Object-Oriented Programming**.
 
 ---
@@ -10,9 +14,25 @@ Building intelligent systems through **Deep Learning, Computer Vision, Scientifi
 
 * 🎓 I'm a Software Engineering student at **San José State University**
 * 🔬 I'm interested in **scientific computing, applied machine learning, and computer vision**
-* 🤖 I'm currently learning and building projects with **Python, C++, Java, PyTorch, and OpenCV**
+* 🤖 I'm currently building projects with **Python, C++, Java, PyTorch, and OpenCV**
 * 💡 I enjoy creating software that turns data and algorithms into useful real-world tools
 * 🌱 Long-term, I hope to contribute to research in machine learning and scientific computing
+
+---
+
+## Experience
+
+### Software Engineering Intern — SLAC National Accelerator Laboratory
+
+Incoming Summer 2026 intern focused on **machine learning for crystallography**, scientific computing, and research software.
+
+### Computing Intern — Lawrence Livermore National Laboratory
+
+Worked on **image quality analysis** using **Python and C++**, contributing to scientific computing and computer vision workflows.
+
+### Instructional Student Assistant — San José State University
+
+Support students in **CMPE 102 Assembly Language Programming**, including helping with x86 assembly concepts, debugging, and project understanding.
 
 ---
 
@@ -54,11 +74,17 @@ C++ · Python · Java · SQL · x86 Assembly · HTML · CSS
 
 ### Machine Learning & Data
 
-PyTorch · NumPy · Matplotlib · Computer Vision · Deep Learning
+PyTorch · NumPy · Matplotlib · Computer Vision · Deep Learning · Image Quality Analysis
 
 ### Developer Tools
 
 Git · GitHub · Linux · Jupyter Notebook · VS Code · IntelliJ IDEA · PyCharm · CLion · Maven · JUnit
+
+---
+
+## Interests
+
+Scientific Computing · Applied Machine Learning · Computer Vision · Deep Learning · Research Software Engineering · Object-Oriented Design
 
 ---
 
