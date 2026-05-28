@@ -20,21 +20,23 @@ Building intelligent systems through **Deep Learning, Computer Vision, Scientifi
 
 ### AI Photo Enhancer
 
-An end-to-end deep learning pipeline for image restoration and enhancement using **DnCNN** and **SwinIR Transformer** models in PyTorch.
+An end-to-end deep learning pipeline for image restoration and enhancement using **DnCNN** and **SwinIR Transformer** models in PyTorch, with cross-dataset evaluation on Flickr2K and BSD500.
 
 **Tech:** Python, PyTorch, Jupyter Notebook, Computer Vision, Deep Learning
+
+### JavaFX Game Manager
+
+A JavaFX desktop application that hosts two playable games, **Blackjack** and **Snake**, with persistent user accounts, encrypted password storage, encrypted Blackjack save states, high score tracking, background music, and unit-tested game logic.
+
+My contributions included **Blackjack UI components**, controller wiring, save/load dialogs, bug fixes, the high score system, main menu redesign, and unit tests for manager classes.
+
+**Tech:** Java, JavaFX, Maven, JUnit 5, OOP, MVC-style design, File I/O, Encryption
 
 ### Bank Account System
 
 An object-oriented C++ project that models regular, savings, and checking accounts with deposits, withdrawals, interest, service charges, and overdraft management.
 
 **Tech:** C++, OOP
-
-### Hospital Management System
-
-A Java-based hospital system project focused on object-oriented design, patient records, and management workflows.
-
-**Tech:** Java, OOP
 
 ### Huffman Coding Data Structure
 
@@ -56,7 +58,7 @@ PyTorch · NumPy · Matplotlib · Computer Vision · Deep Learning
 
 ### Developer Tools
 
-Git · GitHub · Linux · Jupyter Notebook · VS Code · IntelliJ IDEA · PyCharm · CLion
+Git · GitHub · Linux · Jupyter Notebook · VS Code · IntelliJ IDEA · PyCharm · CLion · Maven · JUnit
 
 ---
 
