@@ -92,4 +92,4 @@ Scientific Computing · Applied Machine Learning · Computer Vision · Deep Lear
 
 * LinkedIn: linkedin.com/in/thao-huynh-3310b9243
 * GitHub: github.com/ThaoHuynh94
-* Email: [thuynh58@student.ohlone.edu](mailto:thuynh58@student.ohlone.edu)
+* Email: [thao.huynh01@sjsu.edu](mailto:thao.huynh01@sjsu.edu)
