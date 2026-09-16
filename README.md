@@ -2,21 +2,21 @@
 
 ### Software Engineering Student @ San José State University
 
-### Incoming Software Engineering Intern @ SLAC National Accelerator Laboratory
+### Software Engineering Intern @ SLAC National Accelerator Laboratory
 
 ### Former Computing Intern @ Lawrence Livermore National Laboratory
 
-Building intelligent systems through **Deep Learning, Computer Vision, Scientific Computing, and Object-Oriented Programming**.
+Building intelligent systems through **Scientific Machine Learning, Deep Learning, Scientific Computing, and Research Software Engineering**.
 
 ---
 
 ## About Me
 
 * 🎓 I'm a Software Engineering student at **San José State University**
-* 🔬 I'm interested in **scientific computing, applied machine learning, and computer vision**
-* 🤖 I'm currently building projects with **Python, C++, Java, PyTorch, and OpenCV**
-* 💡 I enjoy creating software that turns data and algorithms into useful real-world tools
-* 🌱 Long-term, I hope to contribute to research in machine learning and scientific computing
+* 🔬 I'm interested in **scientific computing, applied machine learning, and research software**
+* 🤖 I'm currently working with **Python, C++, Java, PyTorch, Linux, and scientific computing tools**
+* 💡 I enjoy building software that turns complex scientific data into reliable, reproducible workflows
+* 🌱 Long-term, I hope to contribute to research at the intersection of **machine learning, scientific computing, and large-scale data analysis**
 
 ---
 
@@ -24,19 +24,46 @@ Building intelligent systems through **Deep Learning, Computer Vision, Scientifi
 
 ### Software Engineering Intern — SLAC National Accelerator Laboratory
 
-Incoming Summer 2026 intern focused on **machine learning for crystallography**, scientific computing, and research software.
+Working on a **scientific machine learning pipeline for X-ray crystallography** using real diffraction data from the MFX instrument.
+
+My work includes:
+
+* Extending the **Integrator** codebase in Python and PyTorch for crystallographic intensity estimation
+* Building scalable preprocessing and GPU-training pipelines for **115+ million reflection shoeboxes**
+* Processing **124,975 experiment/reflection-table pairs** using Linux, Bash, and SLURM
+* Training and validating **variational-inference models** with alternative intensity posteriors and nonlinear data transformations
+* Developing prediction and reflection-table write-back workflows
+* Automating end-to-end **cctbx/DIALS and PHENIX** workflows for processing, scaling, merging, and structural refinement
+* Comparing machine-learning predictions against cctbx baselines using metrics such as **CC1/2, Rint, Rsplit, R-work, and R-free**
+* Debugging resolution-dependent behavior in large-scale crystallographic datasets
+
+**Tech:** Python, PyTorch, Linux, Bash, SLURM, DIALS, cctbx.xfel, PHENIX, Scientific ML, Variational Inference
 
 ### Computing Intern — Lawrence Livermore National Laboratory
 
-Worked on **image quality analysis** using **Python and C++**, contributing to scientific computing and computer vision workflows.
+Worked on **CT image quality analysis** using Python and C++, evaluating multiple imaging systems for multilayer PCB inspection.
+
+Expanded an image-analysis codebase with **FOV, SNR, and SSIM metrics**, performed statistical analysis with NumPy and Matplotlib, and collaborated with scientists and engineers on research workflows.
+
+**Tech:** Python, C++, NumPy, Matplotlib, Computer Vision, Scientific Computing
 
 ### Instructional Student Assistant — San José State University
 
-Support students in **CMPE 102 Assembly Language Programming**, including helping with x86 assembly concepts, debugging, and project understanding.
+Support students in **CMPE 102 Assembly Language Programming**, including x86 assembly concepts, debugging, control flow, memory use, and project evaluation.
 
 ---
 
 ## Featured Projects
+
+### Scientific ML for X-ray Crystallography — SLAC
+
+A large-scale machine-learning workflow for estimating crystallographic reflection intensities from X-ray diffraction data.
+
+The project processes more than **115 million reflection shoeboxes** and uses PyTorch-based variational inference to estimate reflection intensities and uncertainties.
+
+My work includes data preprocessing, GPU training, posterior modeling, likelihood experiments, prediction write-back, and comparison against traditional cctbx integration.
+
+**Tech:** Python, PyTorch, Linux, SLURM, DIALS, cctbx.xfel, PHENIX, Variational Inference, Scientific Computing
 
 ### AI Photo Enhancer
 
@@ -70,21 +97,25 @@ A C++ implementation of Huffman Coding for data compression using tree-based dat
 
 ### Languages
 
-C++ · Python · Java · SQL · x86 Assembly · HTML · CSS
+C++ · Python · Java · C · SQL · Bash/Shell · x86 Assembly · HTML · CSS
 
-### Machine Learning & Data
+### Machine Learning & Scientific Computing
 
-PyTorch · NumPy · Matplotlib · Computer Vision · Deep Learning · Image Quality Analysis
+PyTorch · NumPy · Matplotlib · Deep Learning · Scientific Machine Learning · Variational Inference · Scientific Computing
 
-### Developer Tools
+### Scientific Software
 
-Git · GitHub · Linux · Jupyter Notebook · VS Code · IntelliJ IDEA · PyCharm · CLion · Maven · JUnit
+DIALS · cctbx.xfel · PHENIX
+
+### Systems & Developer Tools
+
+Linux/Unix · SLURM · Git · GitHub · Jupyter Notebook · VS Code · IntelliJ IDEA · PyCharm · CLion · Maven · JUnit
 
 ---
 
 ## Interests
 
-Scientific Computing · Applied Machine Learning · Computer Vision · Deep Learning · Research Software Engineering · Object-Oriented Design
+Scientific Computing · Scientific Machine Learning · Applied Machine Learning · Research Software Engineering · Deep Learning · Large-Scale Data Processing · Object-Oriented Design
 
 ---
 
